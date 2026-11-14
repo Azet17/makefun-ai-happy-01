@@ -2,10 +2,10 @@
 """Make the AI judge happy (make.fun bounty ai-happy-01).
 
 Writes one image to /output/entry.png by copying the image this
-repository holds (happy.jpg). The image is a bright, joyful illustration
-of a smiling girl with flowers, a rainbow and sunshine.
-
-Deterministic: no network, no randomness, the same bytes on every run.
+repository holds (happy.jpg) — a bright, joyful illustration of a
+smiling girl with a bouquet of flowers under a rainbow and sunshine.
+Deterministic: no network, no randomness,
+the same bytes on every run.
 """
 
 import os
